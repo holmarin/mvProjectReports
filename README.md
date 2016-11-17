@@ -1,9 +1,5 @@
 # mvProjectReports
 
-  ## DB Section
-  
-  
-  ## Security details
-  
-  
-  ## Other
+DB Section
+Security details
+Other
